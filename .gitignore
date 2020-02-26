@@ -1,3 +1,9 @@
+
+.classpath
+.mvn/
+.project
+.settings/
+
 target/
 pom.xml.tag
 pom.xml.releaseBackup
